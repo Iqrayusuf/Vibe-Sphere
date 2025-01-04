@@ -1,1 +1,1 @@
-"# Vibe-Sphere" 
+Designed a visually appealing and intuitive mobile application using Kotlin, inspired by platforms like Spotify. The app provides a seamless user experience for music discovery and playback, focusing on engaging layouts, smooth navigation, and modern UI/UX principles to enhance user interaction and aesthetic appeal.
